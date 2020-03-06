@@ -6,11 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm run lite",
-    "lite" : "lite-server"
+    "lite": "lite-server"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassnowfall/NuCampGit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucassnowfall/NuCampGit/issues"
+  },
+  "homepage": "https://github.com/lucassnowfall/NuCampGit#readme"
 }
